@@ -8,6 +8,14 @@ as well as complete keyboard navigation.
 
 Apart from a movie player, it also includes a video thumbnailer.
 
+If you're wondering why I forked this, it's because apparently to change
+some settings in this stupid video player, you need to modify the source code.
+And here I am, wasting my time actually modifying it so I can change some
+settings in my custom build.
+
+The settings were going to be customisable, but the stupid GNOME devs didn't
+accept the patch for some reason. God help the future of Ubuntu and GNOME.
+
 News
 ====
 
