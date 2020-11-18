@@ -421,13 +421,13 @@ msgstr "Vahele jätmine"
 
 #: ../data/shortcuts.ui.h:21
 msgctxt "shortcut window"
-msgid "Go back 15 seconds"
-msgstr "Liikumine 15 sekundit tagasi"
+msgid "Go back 5 seconds"
+msgstr "Liikumine 5 sekundit tagasi"
 
 #: ../data/shortcuts.ui.h:22
 msgctxt "shortcut window"
-msgid "Go forward 60 seconds"
-msgstr "Liikumine edasi 60 sekundit"
+msgid "Go forward 5 seconds"
+msgstr "Liikumine edasi 5 sekundit"
 
 #: ../data/shortcuts.ui.h:23
 msgctxt "shortcut window"
@@ -436,8 +436,8 @@ msgstr "Liikumine 5 sekundit tagasi"
 
 #: ../data/shortcuts.ui.h:24
 msgctxt "shortcut window"
-msgid "Go forward 15 seconds"
-msgstr "Liikumind edasi 15 sekundit"
+msgid "Go forward 5 seconds"
+msgstr "Liikumind edasi 5 sekundit"
 
 #: ../data/shortcuts.ui.h:25
 msgctxt "shortcut window"

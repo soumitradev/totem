@@ -434,13 +434,13 @@ msgstr "Sautar"
 
 #: ../data/shortcuts.ui.h:17
 msgctxt "shortcut window"
-msgid "Go back 15 seconds"
-msgstr "Recular de 15 segondas"
+msgid "Go back 5 seconds"
+msgstr "Recular de 5 segondas"
 
 #: ../data/shortcuts.ui.h:18
 msgctxt "shortcut window"
-msgid "Go forward 60 seconds"
-msgstr "Avançar de 60 segondas"
+msgid "Go forward 5 seconds"
+msgstr "Avançar de 5 segondas"
 
 #: ../data/shortcuts.ui.h:19
 msgctxt "shortcut window"
@@ -449,8 +449,8 @@ msgstr "Recular de 5 segondas"
 
 #: ../data/shortcuts.ui.h:20
 msgctxt "shortcut window"
-msgid "Go forward 15 seconds"
-msgstr "Avançar de 15 segondas"
+msgid "Go forward 5 seconds"
+msgstr "Avançar de 5 segondas"
 
 #: ../data/shortcuts.ui.h:21
 msgctxt "shortcut window"

@@ -386,13 +386,13 @@ msgstr "Sleppa"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 15 seconds"
-msgstr "Fara afturábak um 15 sekúndur"
+msgid "Go back 5 seconds"
+msgstr "Fara afturábak um 5 sekúndur"
 
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 msgctxt "shortcut window"
-msgid "Go forward 60 seconds"
-msgstr "Fara áfram um 60 sekúndur"
+msgid "Go forward 5 seconds"
+msgstr "Fara áfram um 5 sekúndur"
 
 #: data/shortcuts.ui:185
 msgctxt "shortcut window"
@@ -411,8 +411,8 @@ msgstr "Fara afturábak um 5 sekúndur"
 
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 msgctxt "shortcut window"
-msgid "Go forward 15 seconds"
-msgstr "Fara áfram um 15 sekúndur"
+msgid "Go forward 5 seconds"
+msgstr "Fara áfram um 5 sekúndur"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264
 msgctxt "shortcut window"

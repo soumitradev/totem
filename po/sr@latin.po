@@ -471,13 +471,13 @@ msgstr "Premotava na"
 
 #: ../data/shortcuts.ui.h:21
 msgctxt "shortcut window"
-msgid "Go back 15 seconds"
-msgstr "Vraća nazad za 15 sekunde"
+msgid "Go back 5 seconds"
+msgstr "Vraća nazad za 5 sekunde"
 
 #: ../data/shortcuts.ui.h:22
 msgctxt "shortcut window"
-msgid "Go forward 60 seconds"
-msgstr "Ide napred za 60 sekunde"
+msgid "Go forward 5 seconds"
+msgstr "Ide napred za 5 sekunde"
 
 #: ../data/shortcuts.ui.h:23
 msgctxt "shortcut window"
@@ -487,8 +487,8 @@ msgstr "Vraća nazad za 5 sekunde"
 # bug: plural-forms
 #: ../data/shortcuts.ui.h:24
 msgctxt "shortcut window"
-msgid "Go forward 15 seconds"
-msgstr "Ide napred za 15 sekunde"
+msgid "Go forward 5 seconds"
+msgstr "Ide napred za 5 sekunde"
 
 #: ../data/shortcuts.ui.h:25
 msgctxt "shortcut window"

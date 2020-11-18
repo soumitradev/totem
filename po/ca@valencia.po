@@ -419,13 +419,13 @@ msgstr "Salta"
 
 #: ../data/shortcuts.ui.h:21
 msgctxt "shortcut window"
-msgid "Go back 15 seconds"
-msgstr "Vés arrere 15 segons"
+msgid "Go back 5 seconds"
+msgstr "Vés arrere 5 segons"
 
 #: ../data/shortcuts.ui.h:22
 msgctxt "shortcut window"
-msgid "Go forward 60 seconds"
-msgstr "Vés avant 60 segons"
+msgid "Go forward 5 seconds"
+msgstr "Vés avant 5 segons"
 
 #: ../data/shortcuts.ui.h:23
 msgctxt "shortcut window"
@@ -434,8 +434,8 @@ msgstr "Vés arrere 5 segons"
 
 #: ../data/shortcuts.ui.h:24
 msgctxt "shortcut window"
-msgid "Go forward 15 seconds"
-msgstr "Vés avant 15 segons"
+msgid "Go forward 5 seconds"
+msgstr "Vés avant 5 segons"
 
 #: ../data/shortcuts.ui.h:25
 msgctxt "shortcut window"

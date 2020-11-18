@@ -385,12 +385,12 @@ msgstr "Дейін аттау"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 15 seconds"
+msgid "Go back 5 seconds"
 msgstr "15 секундқа артқа өту"
 
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 msgctxt "shortcut window"
-msgid "Go forward 60 seconds"
+msgid "Go forward 5 seconds"
 msgstr "60 секундқа алға өту"
 
 #: data/shortcuts.ui:185
@@ -410,7 +410,7 @@ msgstr "5 секундқа артқа өту"
 
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 msgctxt "shortcut window"
-msgid "Go forward 15 seconds"
+msgid "Go forward 5 seconds"
 msgstr "15 секундқа алға өту"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264

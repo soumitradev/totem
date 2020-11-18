@@ -438,13 +438,13 @@ msgstr "Gearr leum"
 
 #: ../data/shortcuts.ui.h:21
 msgctxt "shortcut window"
-msgid "Go back 15 seconds"
-msgstr "Rach air ais 15 diogan"
+msgid "Go back 5 seconds"
+msgstr "Rach air ais 5 diogan"
 
 #: ../data/shortcuts.ui.h:22
 msgctxt "shortcut window"
-msgid "Go forward 60 seconds"
-msgstr "Rach air adhart 60 diog"
+msgid "Go forward 5 seconds"
+msgstr "Rach air adhart 5 diog"
 
 #: ../data/shortcuts.ui.h:23
 msgctxt "shortcut window"
@@ -453,8 +453,8 @@ msgstr "Rach air ais 5 diogan"
 
 #: ../data/shortcuts.ui.h:24
 msgctxt "shortcut window"
-msgid "Go forward 15 seconds"
-msgstr "Rach air adhart 15 diogan"
+msgid "Go forward 5 seconds"
+msgstr "Rach air adhart 5 diogan"
 
 #: ../data/shortcuts.ui.h:25
 msgctxt "shortcut window"

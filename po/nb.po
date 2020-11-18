@@ -406,13 +406,13 @@ msgstr "Hopp til"
 
 #: ../data/shortcuts.ui.h:21
 msgctxt "shortcut window"
-msgid "Go back 15 seconds"
-msgstr "Gå tilbake 15 sekunder"
+msgid "Go back 5 seconds"
+msgstr "Gå tilbake 5 sekunder"
 
 #: ../data/shortcuts.ui.h:22
 msgctxt "shortcut window"
-msgid "Go forward 60 seconds"
-msgstr "Gå frem 60 sekunder"
+msgid "Go forward 5 seconds"
+msgstr "Gå frem 5 sekunder"
 
 #: ../data/shortcuts.ui.h:23
 msgctxt "shortcut window"
@@ -431,8 +431,8 @@ msgstr "Gå tilbake 5 sekunder"
 
 #: ../data/shortcuts.ui.h:26
 msgctxt "shortcut window"
-msgid "Go forward 15 seconds"
-msgstr "Gå frem 15 sekunder"
+msgid "Go forward 5 seconds"
+msgstr "Gå frem 5 sekunder"
 
 #: ../data/shortcuts.ui.h:27
 msgctxt "shortcut window"
