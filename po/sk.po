@@ -455,13 +455,13 @@ msgstr "Preskočenie"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
-msgstr "Prejdenie dozadu o 5 sekúnd"
+msgid "Go back 15 seconds"
+msgstr "Prejdenie dozadu o 15 sekúnd"
 
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Prejdenie dopredu o 5 sekúnd"
+msgid "Go forward 60 seconds"
+msgstr "Prejdenie dopredu o 60 sekúnd"
 
 #: data/shortcuts.ui:185
 msgctxt "shortcut window"
@@ -481,8 +481,8 @@ msgstr "Prejdenie dozadu o 5 sekúnd"
 # http://slovnik.juls.savba.sk/?w=snímka&c=ze5e
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Prejdenie dopredu o 5 sekúnd"
+msgid "Go forward 15 seconds"
+msgstr "Prejdenie dopredu o 15 sekúnd"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264
 msgctxt "shortcut window"

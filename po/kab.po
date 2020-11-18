@@ -376,13 +376,13 @@ msgstr "Zgel"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
-msgstr "Uɣal ɣer deffir s 5 tasinin"
+msgid "Go back 15 seconds"
+msgstr "Uɣal ɣer deffir s 15 tasinin"
 
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Ddu s 5 n tasinin ɣer sdat"
+msgid "Go forward 60 seconds"
+msgstr "Ddu s 60 n tasinin ɣer sdat"
 
 #: data/shortcuts.ui:185
 msgctxt "shortcut window"
@@ -401,8 +401,8 @@ msgstr "Uɣal ar deffir s 5 tasinin"
 
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Ddu ɣer sdat s 5 n tasinin"
+msgid "Go forward 15 seconds"
+msgstr "Ddu ɣer sdat s 15 n tasinin"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264
 msgctxt "shortcut window"

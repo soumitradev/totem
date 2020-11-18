@@ -391,13 +391,13 @@ msgstr "Премотава на"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
-msgstr "Враћа назад за 5 секунде"
+msgid "Go back 15 seconds"
+msgstr "Враћа назад за 15 секунде"
 
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Иде напред за 5 секунде"
+msgid "Go forward 60 seconds"
+msgstr "Иде напред за 60 секунде"
 
 #: data/shortcuts.ui:185
 msgctxt "shortcut window"
@@ -417,8 +417,8 @@ msgstr "Враћа назад за 5 секунде"
 # bug: plural-forms
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Иде напред за 5 секунде"
+msgid "Go forward 15 seconds"
+msgstr "Иде напред за 15 секунде"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264
 msgctxt "shortcut window"

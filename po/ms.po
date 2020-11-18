@@ -391,14 +391,14 @@ msgstr "Langkau"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
-msgstr "Undur 5 saat"
+msgid "Go back 15 seconds"
+msgstr "Undur 15 saat"
 
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 #| msgid "0 seconds"
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Maju 5 saat"
+msgid "Go forward 60 seconds"
+msgstr "Maju 60 saat"
 
 #: data/shortcuts.ui:185
 msgctxt "shortcut window"
@@ -419,8 +419,8 @@ msgstr "Undur 5 saat"
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 #| msgid "0 frames per second"
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Maju 5 saat"
+msgid "Go forward 15 seconds"
+msgstr "Maju 15 saat"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264
 msgctxt "shortcut window"

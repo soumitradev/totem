@@ -386,13 +386,13 @@ msgstr "Salte"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
-msgstr "Torne indaûr di 5 seconts"
+msgid "Go back 15 seconds"
+msgstr "Torne indaûr di 15 seconts"
 
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Va indenant di 5 seconts"
+msgid "Go forward 60 seconds"
+msgstr "Va indenant di 60 seconts"
 
 #: data/shortcuts.ui:185
 msgctxt "shortcut window"
@@ -411,8 +411,8 @@ msgstr "Torne indaûr di 5 seconts"
 
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Va indenant di 5 seconts"
+msgid "Go forward 15 seconds"
+msgstr "Va indenant di 15 seconts"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264
 msgctxt "shortcut window"

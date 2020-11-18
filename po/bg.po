@@ -418,13 +418,13 @@ msgstr "Прескачане"
 
 #: ../data/shortcuts.ui.h:21
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
-msgstr "Назад 5 секунди"
+msgid "Go back 15 seconds"
+msgstr "Назад 15 секунди"
 
 #: ../data/shortcuts.ui.h:22
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Напред 5 секунди"
+msgid "Go forward 60 seconds"
+msgstr "Напред 60 секунди"
 
 #: ../data/shortcuts.ui.h:23
 msgctxt "shortcut window"
@@ -433,8 +433,8 @@ msgstr "Назад 5 секунди"
 
 #: ../data/shortcuts.ui.h:24
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Напред 5 секунди"
+msgid "Go forward 15 seconds"
+msgstr "Напред 15 секунди"
 
 #: ../data/shortcuts.ui.h:25
 msgctxt "shortcut window"

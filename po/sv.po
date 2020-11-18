@@ -382,13 +382,13 @@ msgstr "Hoppa över"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
-msgstr "Gå tillbaka 5 sekunder"
+msgid "Go back 15 seconds"
+msgstr "Gå tillbaka 15 sekunder"
 
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Gå framåt 5 sekunder"
+msgid "Go forward 60 seconds"
+msgstr "Gå framåt 60 sekunder"
 
 #: data/shortcuts.ui:185
 msgctxt "shortcut window"
@@ -407,8 +407,8 @@ msgstr "Gå tillbaka 5 sekunder"
 
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Gå framåt 5 sekunder"
+msgid "Go forward 15 seconds"
+msgstr "Gå framåt 15 sekunder"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264
 msgctxt "shortcut window"

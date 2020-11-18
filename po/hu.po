@@ -385,13 +385,13 @@ msgstr "Ugrás"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
-msgstr "Vissza 5 másodperccel"
+msgid "Go back 15 seconds"
+msgstr "Vissza 15 másodperccel"
 
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Előre 5 másodperccel"
+msgid "Go forward 60 seconds"
+msgstr "Előre 60 másodperccel"
 
 #: data/shortcuts.ui:185
 msgctxt "shortcut window"
@@ -410,8 +410,8 @@ msgstr "Vissza 5 másodperccel"
 
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Előre 5 másodperccel"
+msgid "Go forward 15 seconds"
+msgstr "Előre 15 másodperccel"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264
 msgctxt "shortcut window"

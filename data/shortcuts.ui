@@ -167,7 +167,7 @@
                 <property name="visible">1</property>
                 <property name="accelerator">Left</property>
                 <property name="direction">ltr</property>
-                <property name="title" translatable="yes" context="shortcut window">Go back 5 seconds</property>
+                <property name="title" translatable="yes" context="shortcut window">Go back 15 seconds</property>
               </object>
             </child>
             <child>
@@ -175,7 +175,7 @@
                 <property name="visible">1</property>
                 <property name="accelerator">Right</property>
                 <property name="direction">ltr</property>
-                <property name="title" translatable="yes" context="shortcut window">Go forward 5 seconds</property>
+                <property name="title" translatable="yes" context="shortcut window">Go forward 60 seconds</property>
               </object>
             </child>
             <child>

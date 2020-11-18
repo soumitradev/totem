@@ -397,13 +397,13 @@ msgstr "Přeskočit"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
-msgstr "Přeskočit zpět o 5 vteřin"
+msgid "Go back 15 seconds"
+msgstr "Přeskočit zpět o 15 vteřin"
 
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Přeskočit vpřed o 5 vteřin"
+msgid "Go forward 60 seconds"
+msgstr "Přeskočit vpřed o 60 vteřin"
 
 #: data/shortcuts.ui:185
 msgctxt "shortcut window"
@@ -422,8 +422,8 @@ msgstr "Přeskočit zpět o 5 vteřin"
 
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Přeskočit vpřed o 5 vteřin"
+msgid "Go forward 15 seconds"
+msgstr "Přeskočit vpřed o 15 vteřin"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264
 msgctxt "shortcut window"

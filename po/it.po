@@ -400,13 +400,13 @@ msgstr "Salta"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
-msgstr "Va 5 secondi indietro"
+msgid "Go back 15 seconds"
+msgstr "Va 15 secondi indietro"
 
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Va 5 secondi in avanti"
+msgid "Go forward 60 seconds"
+msgstr "Va 60 secondi in avanti"
 
 #: data/shortcuts.ui:185
 msgctxt "shortcut window"
@@ -425,8 +425,8 @@ msgstr "Va 5 secondi indietro"
 
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Va 5 secondi in avanti"
+msgid "Go forward 15 seconds"
+msgstr "Va 15 secondi in avanti"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264
 msgctxt "shortcut window"

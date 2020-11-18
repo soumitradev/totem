@@ -408,12 +408,12 @@ msgstr "અવગણો"
 
 #: ../data/shortcuts.ui.h:17
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
+msgid "Go back 15 seconds"
 msgstr "૧૫ સેકન્ડ પાછળ જાઓ"
 
 #: ../data/shortcuts.ui.h:18
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
+msgid "Go forward 60 seconds"
 msgstr "૬૦ સેકન્ડ આગળ જાઓ"
 
 #: ../data/shortcuts.ui.h:19
@@ -423,7 +423,7 @@ msgstr "૫ સેકન્ડ પાછળ જાઓ"
 
 #: ../data/shortcuts.ui.h:20
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
+msgid "Go forward 15 seconds"
 msgstr "૧૫ સેકન્ડ આગળ જાઓ"
 
 #: ../data/shortcuts.ui.h:21

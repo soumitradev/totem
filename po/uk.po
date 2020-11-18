@@ -382,13 +382,13 @@ msgstr "Пропустити"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
-msgstr "Повернутися на 5 секунд"
+msgid "Go back 15 seconds"
+msgstr "Повернутися на 15 секунд"
 
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Вперед на 5 секунд"
+msgid "Go forward 60 seconds"
+msgstr "Вперед на 60 секунд"
 
 #: data/shortcuts.ui:185
 msgctxt "shortcut window"
@@ -407,8 +407,8 @@ msgstr "Повернутися на 5 секунд"
 
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Вперед на 5 секунд"
+msgid "Go forward 15 seconds"
+msgstr "Вперед на 15 секунд"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264
 msgctxt "shortcut window"

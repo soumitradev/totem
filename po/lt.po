@@ -385,14 +385,14 @@ msgstr "Peršokti"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
-msgstr "Grįžti 5 sekundžių atgal"
+msgid "Go back 15 seconds"
+msgstr "Grįžti 15 sekundžių atgal"
 
 #  0 seconds
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Pereiti 5 sekundžių pirmyn"
+msgid "Go forward 60 seconds"
+msgstr "Pereiti 60 sekundžių pirmyn"
 
 #: data/shortcuts.ui:185
 msgctxt "shortcut window"
@@ -412,8 +412,8 @@ msgstr "Grįžti 5 sekundes atgal"
 
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Pereiti 5 sekundžių pirmyn"
+msgid "Go forward 15 seconds"
+msgstr "Pereiti 15 sekundžių pirmyn"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264
 msgctxt "shortcut window"

@@ -396,13 +396,13 @@ msgstr "Omite"
 
 #: data/shortcuts.ui:170 data/shortcuts.ui:232
 msgctxt "shortcut window"
-msgid "Go back 5 seconds"
-msgstr "Întoarce-te 5 secunde"
+msgid "Go back 15 seconds"
+msgstr "Întoarce-te 15 secunde"
 
 #: data/shortcuts.ui:178 data/shortcuts.ui:240
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Înnaintează 5 secunde"
+msgid "Go forward 60 seconds"
+msgstr "Înnaintează 60 secunde"
 
 #: data/shortcuts.ui:185
 msgctxt "shortcut window"
@@ -421,8 +421,8 @@ msgstr "Întoarce-te 5 secunde"
 
 #: data/shortcuts.ui:208 data/shortcuts.ui:256
 msgctxt "shortcut window"
-msgid "Go forward 5 seconds"
-msgstr "Înaintează 5 secunde"
+msgid "Go forward 15 seconds"
+msgstr "Înaintează 15 secunde"
 
 #: data/shortcuts.ui:216 data/shortcuts.ui:264
 msgctxt "shortcut window"
