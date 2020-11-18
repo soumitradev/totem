@@ -163,7 +163,7 @@
             <property name="visible">1</property>
             <property name="title" translatable="yes" context="shortcut window">Skip</property>
             <child>
-              <object class="GtkShortcutsShortcut" id="go-back-5">
+              <object class="GtkShortcutsShortcut" id="go-back-15">
                 <property name="visible">1</property>
                 <property name="accelerator">Left</property>
                 <property name="direction">ltr</property>
@@ -171,7 +171,7 @@
               </object>
             </child>
             <child>
-              <object class="GtkShortcutsShortcut" id="go-forward-5">
+              <object class="GtkShortcutsShortcut" id="go-forward-60">
                 <property name="visible">1</property>
                 <property name="accelerator">Right</property>
                 <property name="direction">ltr</property>
@@ -229,7 +229,7 @@
                 <property name="visible">1</property>
                 <property name="accelerator">Right</property>
                 <property name="direction">rtl</property>
-                <property name="title" translatable="yes" context="shortcut window">Go back 15 seconds</property>
+                <property name="title" translatable="yes" context="shortcut window">Go back 5 seconds</property>
               </object>
             </child>
             <child>
@@ -237,7 +237,7 @@
                 <property name="visible">1</property>
                 <property name="accelerator">Left</property>
                 <property name="direction">rtl</property>
-                <property name="title" translatable="yes" context="shortcut window">Go forward 60 seconds</property>
+                <property name="title" translatable="yes" context="shortcut window">Go forward 5 seconds</property>
               </object>
             </child>
             <child>
