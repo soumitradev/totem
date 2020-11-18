@@ -155,8 +155,8 @@ struct _TotemObject {
 
 GtkWidget *totem_volume_create (void);
 
-#define SEEK_FORWARD_OFFSET 60
-#define SEEK_BACKWARD_OFFSET -15
+#define SEEK_FORWARD_OFFSET 5
+#define SEEK_BACKWARD_OFFSET -5
 
 #define VOLUME_DOWN_OFFSET (-0.08)
 #define VOLUME_UP_OFFSET (0.08)
